@@ -1,6 +1,6 @@
 -This is the "BACKEND" of my warden's space project.    
 
-## Tech Stack(Backend)
+## Tech Used(Backend)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,postgres)](https://skillicons.dev).
 ## FRONTEND REPO (React JS) :- https://github.com/Debasish415/WardernApp 
 
